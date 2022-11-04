@@ -1,6 +1,6 @@
 const appFilm = "appFilm"
 const assets = [
-  "/"
+  "/index.html"
 ];
 
 self.addEventListener("install", installEvent => {
